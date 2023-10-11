@@ -1,0 +1,14 @@
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\bin\Debug\net6.0\Lab2.exe
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\bin\Debug\net6.0\Lab2.deps.json
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\bin\Debug\net6.0\Lab2.dll
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\bin\Debug\net6.0\Lab2.pdb
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\Lab2.dll
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\Lab2.pdb
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+C:\Users\maksi\Documents\Semestr 7\AiPw.NET\Lab2\obj\Debug\net6.0\ref\Lab2.dll
